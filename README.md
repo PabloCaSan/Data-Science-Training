@@ -1,2 +1,2 @@
-# Data-Science-Training
-Some of the notebooks I made while learning Data Science
+# Data Science Training
+Some of the Jupyter/Colab notebooks I made while learning Data Science.
