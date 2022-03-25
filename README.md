@@ -1,5 +1,3 @@
-# Data Science Training / Aprendiendo Cienca de Datos
+# *Curso de Manipulación y Análisis de Datos con Pandas y Python*
 
-Some of the Jupyter/Colab notebooks I made while learning Data Science.
-
-Algunas de las libretas de Jupyter/Colab que hice mientras aprendía Ciencia de Datos.
+The Jupyter notebooks I made while learning Data Analysis / Libretas de Jupyter que hice mientras aprendía Análisis de Datos.
